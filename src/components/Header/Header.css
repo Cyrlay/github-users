@@ -1,0 +1,37 @@
+.app-header {
+    height: 75px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.header-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-logo {
+    height: 50px;
+    width: 50px;
+    pointer-events: none;
+    margin: 0 15px 0 0;
+}
+
+.header-text {
+    display: inline;
+    font-size: 24px;
+    vertical-align: middle;
+    font-weight: 600;
+    justify-content: center;
+    align-items: center;
+}
+
+.back-button {
+    display: inline;
+    position: absolute;
+    left: 0;
+}

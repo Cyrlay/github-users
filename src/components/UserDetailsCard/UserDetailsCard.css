@@ -1,0 +1,127 @@
+.container-box {
+    width: auto;
+    border-radius: 4px;
+    background-color: #ffffff;
+    max-width: 600px;
+}
+
+@media (min-width: 800px) {
+    .container-box{
+        width: 600px;
+    }
+}
+
+.container-inner-top-box {
+    display: flex;
+    padding: 20px;
+}
+
+.user-avatar-box {
+    margin-right: 12px;
+    width: 120px;
+    height: 120px;
+    border-radius: 4px;
+}
+
+.user-login-box {
+    font-size: 18px;
+    margin: 0px 0px 6px 0px;
+    color: #262626;
+}
+
+.team-box {
+    background-color: lightblue;
+    color: blue;
+    padding: 2px 4px 2px 4px;
+    margin: 0px;
+    width: fit-content;
+    display: inline;
+}
+
+.id-box,
+.id-value-box {
+    display: inline;
+    color: #999999;
+}
+
+.team-id-section-box {
+    font-size: 12px;
+    position: relative;
+}
+
+.github-page-box {
+    color: #999999;
+    font-size: 12px;
+    position: relative;
+    top: 30px;
+}
+
+.github-page-box a{
+    color:#999999;
+    font-size:12px;
+}
+
+.github-page-box a:hover{
+    color:red;
+}
+
+.profile-header-box {
+    padding: 20px 20px 0px 20px;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #262626;
+}
+
+.username-box {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+    color: #262626;
+}
+
+.repositories-header {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.user-info-box {
+    position: relative;
+    top: -8px;
+}
+
+.details-box {
+    padding: 20px 20px 20px 20px;
+    text-align: left;
+}
+
+.repositories-list-header {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.repositories-count-header {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.repositories-count-header .repositories-count {
+    font-weight: 400;
+}
+
+.repositories-list-container {
+    margin: 0;
+    height: 105px;
+    overflow:hidden;
+    overflow-y: scroll;
+}
+
+.repositories-list-container li {
+    font-size: 14px;
+    font-weight: 400;
+}

@@ -1,0 +1,69 @@
+.one-card {
+    display:inline-block;
+}
+
+.one-card-margin {
+    border-radius: 4px;
+    background-color: #ffffff;
+    margin: 10px;
+}
+
+.container-inner-top {
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid #F5F5F5;
+}
+
+.user-avatar {
+    margin-right: 12px;
+    width: 76px;
+    height: 76px;
+    border-radius: 4px;
+}
+
+.user-login {
+    font-size: 18px;
+    margin: 0px 0px 6px 0px;
+    color:#262626;
+}
+.id,
+.id-value {
+    display: inline;
+    color: #999999;
+}
+
+.team-id-section {
+    font-size: 12px;
+    position: relative;
+}
+
+.github-page {
+    color: #999999;
+    font-size: 12px;
+    position: relative;
+    top: 12px;
+    text-decoration: none;
+}
+
+.github-page a{
+    color:#999999;
+    font-size:12px;
+}
+
+.github-page a:hover{
+    color:red;
+}
+
+.github-page-logo {
+    width: 10px;
+    height: 10px;
+}
+
+.details {
+    color: #1A74FF;
+    padding: 12px 0px 12px 0px;
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+    margin: 0;
+}

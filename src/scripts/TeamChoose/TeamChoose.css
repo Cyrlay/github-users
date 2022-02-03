@@ -1,0 +1,34 @@
+
+.teamNull {
+    display: none;
+}
+
+.teamA {
+    background-color: #B3D1FF;
+    color: #0047B3;
+    padding: 2px 4px 2px 4px;
+    margin-right: 5px;
+    width: fit-content;
+    display: inline;
+    border-radius: 2px;
+}
+
+.teamB {
+    background-color: #FFD6C8;
+    color: #C83300;
+    padding: 2px 4px 2px 4px;
+    margin-right: 5px;
+    width: fit-content;
+    display: inline;
+    border-radius: 2px;
+}
+
+.teamC {
+    background-color: #A6FCC8;
+    color: #059E42;
+    padding: 2px 4px 2px 4px;
+    margin-right: 5px;
+    width: fit-content;
+    display: inline;
+    border-radius: 2px;
+}
