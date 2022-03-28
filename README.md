@@ -1,4 +1,4 @@
-GitHub Users - application created with ReactJS, which allows to fetch Github users and view user details, such as repositories.
+GitHub Users - application created with ReactJS, which allows you to fetch Github users and view user details, such as repositories.
 
 User Guide:
     1: Download/Clone repository

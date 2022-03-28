@@ -1,0 +1,8 @@
+.page-not-found {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 400px;
+    font-family: 'Dancing Script', cursive;
+}

@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react'
 import InfiniteScroll from 'react-infinite-scroll-component'
 import UserListCard from '../UserListCard/UserListCard'
-import {teamBadge} from '../../scripts/TeamChoose/TeamChoose'
+import {teamBadge} from '../TeamChoose/TeamChoose'
 import {Container} from "react-bootstrap";
 import PageLoader from "../PageLoader/PageLoader";
 import axios from "axios";

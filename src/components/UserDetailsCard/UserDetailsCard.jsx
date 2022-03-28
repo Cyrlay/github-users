@@ -1,5 +1,5 @@
 import React from "react";
-import {teamBackground, teamBadge} from "../../scripts/TeamChoose/TeamChoose";
+import {teamBackground, teamBadge} from "../TeamChoose/TeamChoose";
 import GetUserRepos from "../FetchData/GetUserRepos";
 import './UserDetailsCard.css'
 import GitHubIcon from "@mui/icons-material/GitHub";

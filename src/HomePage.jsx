@@ -1,4 +1,4 @@
-import './css/App.css';
+import './App.css';
 import Header from "./components/Header/Header";
 import {Container} from "react-bootstrap";
 import GetUserList from "./components/FetchData/GetUserList";

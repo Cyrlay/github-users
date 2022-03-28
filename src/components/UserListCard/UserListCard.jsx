@@ -1,8 +1,7 @@
 import React from "react";
-import github_logo_gray from "../../assets/github_logo_gray.png"
 import {Link} from "react-router-dom";
 import {Col} from "react-bootstrap";
-import {teamBackground} from "../../scripts/TeamChoose/TeamChoose";
+import {teamBackground} from "../TeamChoose/TeamChoose";
 import './UserListCard.css'
 import GitHubIcon from '@mui/icons-material/GitHub';
 
