@@ -2,7 +2,7 @@ import './App.css';
 import PageNotFound from "./components/PageNotFound/PageNotFound";
 import React from "react";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
-import HomePage from "./HomePage";
+import HomePage from "./components/HomePage/HomePage";
 import UserDetails from "./components/UserDetails/UserDetails";
 
 function App() {

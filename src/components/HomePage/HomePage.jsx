@@ -1,7 +1,7 @@
-import './App.css';
-import Header from "./components/Header/Header";
+import '../../App.css';
+import Header from "../Header/Header";
 import {Container} from "react-bootstrap";
-import GetUserList from "./components/FetchData/GetUserList";
+import GetUserList from "../FetchData/GetUserList";
 import React from "react";
 
 function HomePage() {
